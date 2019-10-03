@@ -54,28 +54,6 @@
       "picture": {
         "background": "https://images.pexels.com/photos/954199/pexels-photo-954199.jpeg?cs=srgb&dl=blur-cake-chocolate-954199.jpg&fm=jpg"
       }
-    },
-    {
-      "name": {
-        "title": "Cupcake With Strawberry Toppings"
-      },
-      "description": {
-        "text": "Empty"
-      },
-      "picture": {
-        "background": "https://images.pexels.com/photos/461431/pexels-photo-461431.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
-      }
-    },
-    {
-      "name": {
-        "title": "Creme Filled Donuts"
-      },
-      "description": {
-        "text": "Empty"
-      },
-      "picture": {
-        "background": "https://images.pexels.com/photos/41300/berliner-breakfast-bun-cake-41300.jpeg?cs=srgb&dl=bun-cake-donut-41300.jpg&fm=jpg"
-      }
     }
   ],
   "info": {
