@@ -1,284 +1,81 @@
 {
   "results": [
     {
-      "gender": "female",
       "name": {
-        "title": "Mrs",
-        "first": "Lidia",
-        "last": "Calvo"
+        "title": "Butter Cookie Cake With Fruits"
       },
-      "location": {
-        "street": {
-          "number": 8910,
-          "name": "Avenida de Burgos"
-        },
-        "city": "Santa Cruz de Tenerife",
-        "state": "Comunidad Valenciana",
-        "country": "Spain",
-        "postcode": 17637,
-        "coordinates": {
-          "latitude": "-24.5681",
-          "longitude": "46.6200"
-        },
-        "timezone": {
-          "offset": "+5:45",
-          "description": "Kathmandu"
-        }
-      },
-      "email": "Lidia.Calvo@example.com",
-      "login": {
-        "uuid": "81ace1c9-1f06-4975-af7d-c608d62a20c8",
-        "username": "ticklishrabbit477",
-        "password": "irishman",
-        "salt": "9cxLEuO0",
-        "md5": "b9570c4b8f790dfd6cb12ce128bed53f",
-        "sha1": "c77c5e011fd68d54e443291f95a59701fdff2075",
-        "sha256": "400169e87e5b21957944cc5d94f132f8bee231ebf5e40eb786c064f133d2ab00"
-      },
-      "dob": {
-        "date": "1945-07-24T22:43:59.320Z",
-        "age": 74
-      },
-      "registered": {
-        "date": "2011-06-13T08:23:42.544Z",
-        "age": 8
-      },
-      "phone": "931-610-751",
-      "cell": "625-414-962",
-      "id": {
-        "name": "DNI",
-        "value": "09867299-B"
+      "description": {
+        "text": "Empty"
       },
       "picture": {
-        "large": "https://randomuser.me/api/portraits/women/80.jpg",
-        "medium": "https://randomuser.me/api/portraits/med/women/80.jpg",
-        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/80.jpg"
-      },
-      "nat": "ES"
+        "background": "https://images.pexels.com/photos/1291712/pexels-photo-1291712.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+      }
     },
     {
-      "gender": "female",
       "name": {
-        "title": "Ms",
-        "first": "Brandy",
-        "last": "Spencer"
+        "title": "White Round Cake Topped With Yellow Slice Fruit"
       },
-      "location": {
-        "street": {
-          "number": 865,
-          "name": "Frances Ct"
-        },
-        "city": "Maitland",
-        "state": "Queensland",
-        "country": "Australia",
-        "postcode": 2679,
-        "coordinates": {
-          "latitude": "-66.0902",
-          "longitude": "-96.6573"
-        },
-        "timezone": {
-          "offset": "+6:00",
-          "description": "Almaty, Dhaka, Colombo"
-        }
-      },
-      "email": "Brandy.Spencer@example.com",
-      "login": {
-        "uuid": "9627ea40-fcac-43fe-90f2-ddc14878aaae",
-        "username": "bigtiger105",
-        "password": "barkley",
-        "salt": "OMN3XTTC",
-        "md5": "ebadafd28212b81322b2266e5ddc3c79",
-        "sha1": "726f30358c1a479f2270638fa970fb984ce41f50",
-        "sha256": "d2a5b031251bf9e0c5e20016d49212a92ff93562a80c767c78b180492c2e68f1"
-      },
-      "dob": {
-        "date": "1959-05-27T18:02:29.459Z",
-        "age": 60
-      },
-      "registered": {
-        "date": "2002-06-16T20:45:40.226Z",
-        "age": 17
-      },
-      "phone": "02-7452-9064",
-      "cell": "0454-876-565",
-      "id": {
-        "name": "TFN",
-        "value": "737443191"
+      "description": {
+        "text": "Empty"
       },
       "picture": {
-        "large": "https://randomuser.me/api/portraits/women/35.jpg",
-        "medium": "https://randomuser.me/api/portraits/med/women/35.jpg",
-        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/35.jpg"
-      },
-      "nat": "AU"
+        "background": "https://images.pexels.com/photos/2144200/pexels-photo-2144200.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+      }
     },
     {
-      "gender": "male",
       "name": {
-        "title": "Mr",
-        "first": "پارسا",
-        "last": "کامروا"
+        "title": "Sliced Cakes With Berries"
       },
-      "location": {
-        "street": {
-          "number": 8462,
-          "name": "شهید سرتیپ نامجو"
-        },
-        "city": "تبریز",
-        "state": "تهران",
-        "country": "Iran",
-        "postcode": 88506,
-        "coordinates": {
-          "latitude": "54.3939",
-          "longitude": "84.5187"
-        },
-        "timezone": {
-          "offset": "-9:00",
-          "description": "Alaska"
-        }
-      },
-      "email": "prs.khmrw@example.com",
-      "login": {
-        "uuid": "b711e040-53b7-494f-8a68-7dca9b8c5c77",
-        "username": "orangedog800",
-        "password": "hogtied",
-        "salt": "WBKSERNX",
-        "md5": "ef8c5c52bfa3a4280ca82b0b5913106b",
-        "sha1": "38bf13f1679e756994269a1896b650d0cd48bca7",
-        "sha256": "f49cd6bb2c5443f0264d83561d5f1d23e4961bfc0f548cc9ab4d957a9f5e9792"
-      },
-      "dob": {
-        "date": "1981-11-17T19:04:20.696Z",
-        "age": 38
-      },
-      "registered": {
-        "date": "2017-10-28T05:08:37.139Z",
-        "age": 2
-      },
-      "phone": "076-99463709",
-      "cell": "0946-754-4473",
-      "id": {
-        "name": "",
-        "value": null
+      "description": {
+        "text": "Empty"
       },
       "picture": {
-        "large": "https://randomuser.me/api/portraits/men/19.jpg",
-        "medium": "https://randomuser.me/api/portraits/med/men/19.jpg",
-        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/19.jpg"
-      },
-      "nat": "IR"
+        "background": "https://images.pexels.com/photos/236799/pexels-photo-236799.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+      }
     },
     {
-      "gender": "female",
       "name": {
-        "title": "Madame",
-        "first": "Laetitia",
-        "last": "Arnaud"
+        "title": "Cupcakes"
       },
-      "location": {
-        "street": {
-          "number": 9060,
-          "name": "Rue Pierre-Delore"
-        },
-        "city": "Soral",
-        "state": "Basel-Landschaft",
-        "country": "Switzerland",
-        "postcode": 1758,
-        "coordinates": {
-          "latitude": "-18.7057",
-          "longitude": "-138.4437"
-        },
-        "timezone": {
-          "offset": "+5:30",
-          "description": "Bombay, Calcutta, Madras, New Delhi"
-        }
-      },
-      "email": "Laetitia.Arnaud@example.com",
-      "login": {
-        "uuid": "e24a5ed1-d743-4dc7-9b7b-ac782cbe3baf",
-        "username": "crazyostrich387",
-        "password": "smokey",
-        "salt": "sxmZL8il",
-        "md5": "fd142cf8f176857909483d897e382ded",
-        "sha1": "01625f05cc8abc5cb45f930e5ebc994f3653fb2f",
-        "sha256": "078afc5477e2dd06544f67cc9b6f7d3e051bd2a670226530202664f26331a51e"
-      },
-      "dob": {
-        "date": "1963-08-20T05:48:57.687Z",
-        "age": 56
-      },
-      "registered": {
-        "date": "2019-09-06T11:03:51.962Z",
-        "age": 0
-      },
-      "phone": "075 133 10 58",
-      "cell": "075 380 67 81",
-      "id": {
-        "name": "AVS",
-        "value": "756.3292.1726.98"
+      "description": {
+        "text": "Empty"
       },
       "picture": {
-        "large": "https://randomuser.me/api/portraits/women/58.jpg",
-        "medium": "https://randomuser.me/api/portraits/med/women/58.jpg",
-        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/58.jpg"
-      },
-      "nat": "CH"
+        "background": "https://images.pexels.com/photos/1028704/pexels-photo-1028704.jpeg?cs=srgb&dl=bake-baked-bakery-1028704.jpg&fm=jpg"
+      }
     },
     {
-      "gender": "male",
       "name": {
-        "title": "Mr",
-        "first": "Jonathan",
-        "last": "Wallace"
+        "title": "Black, Brown, and White Melted Cake"
       },
-      "location": {
-        "street": {
-          "number": 2471,
-          "name": "Park Lane"
-        },
-        "city": "Sunderland",
-        "state": "South Yorkshire",
-        "country": "United Kingdom",
-        "postcode": "II1 9JQ",
-        "coordinates": {
-          "latitude": "72.0618",
-          "longitude": "-29.6751"
-        },
-        "timezone": {
-          "offset": "+9:30",
-          "description": "Adelaide, Darwin"
-        }
-      },
-      "email": "Jonathan.Wallace@example.com",
-      "login": {
-        "uuid": "95b0f7ac-9667-4c53-9801-befd1a463d9f",
-        "username": "tinyswan266",
-        "password": "292929",
-        "salt": "Fm3Auw3l",
-        "md5": "23950d0a4906560de95fef2a7325eb90",
-        "sha1": "9466465ef8e3d9e920efaf2fed863502fb40c8e8",
-        "sha256": "122903d11f347614c5af8047e6a66eeb3a2e41d749b603280518b0f66fc2e70b"
-      },
-      "dob": {
-        "date": "1954-09-28T22:45:53.100Z",
-        "age": 65
-      },
-      "registered": {
-        "date": "2008-09-22T08:40:53.826Z",
-        "age": 11
-      },
-      "phone": "015395 28951",
-      "cell": "0772-456-176",
-      "id": {
-        "name": "NINO",
-        "value": "KY 36 92 62 C"
+      "description": {
+        "text": "Empty"
       },
       "picture": {
-        "large": "https://randomuser.me/api/portraits/men/62.jpg",
-        "medium": "https://randomuser.me/api/portraits/med/men/62.jpg",
-        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/62.jpg"
+        "background": "https://images.pexels.com/photos/954199/pexels-photo-954199.jpeg?cs=srgb&dl=blur-cake-chocolate-954199.jpg&fm=jpg"
+      }
+    },
+    {
+      "name": {
+        "title": "Cupcake With Strawberry Toppings"
       },
-      "nat": "GB"
+      "description": {
+        "text": "Empty"
+      },
+      "picture": {
+        "background": "https://images.pexels.com/photos/461431/pexels-photo-461431.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+      }
+    },
+    {
+      "name": {
+        "title": "Creme Filled Donuts"
+      },
+      "description": {
+        "text": "Empty"
+      },
+      "picture": {
+        "background": "https://images.pexels.com/photos/41300/berliner-breakfast-bun-cake-41300.jpeg?cs=srgb&dl=bun-cake-donut-41300.jpg&fm=jpg"
+      }
     }
   ],
   "info": {
