@@ -1,70 +1,127 @@
 {
-  "results": [
-    {
-      "id": 1,
-      "name": {
-        "title": "Butter Cookie Cake With Fruits"
+  "data": {
+    "rows": [
+      {
+        "id": 1,
+        "slug": "pealpan-centro",
+        "policies": [
+          {
+            "id": 1,
+            "delivery": "90 min",
+            "minimum_order": 200,
+            "schedule": "L - V de 8:00am a 6:00pm y Sab. De 8:00am a 1:30pm"
+          }
+        ]
       },
-      "description": {
-        "text": "Empty"
+      {
+        "id": 2,
+        "slug": "pealpan-lomas",
+        "policies": [
+          {
+            "id": 1,
+            "delivery": "90 min",
+            "minimum_order": 200,
+            "schedule": "L - V de 8:00am a 6:00pm y Sab. De 8:00am a 1:30pm"
+          }
+        ]
       },
-      "picture": {
-        "background": "https://images.pexels.com/photos/1291712/pexels-photo-1291712.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+      {
+        "id": 3,
+        "slug": "pealpan-abastos",
+        "policies": [
+          {
+            "id": 1,
+            "delivery": "90 min",
+            "minimum_order": 200,
+            "schedule": "L - V de 8:00am a 6:00pm y Sab. De 8:00am a 1:30pm"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "slug": "digriapan-matriz",
+        "policies": [
+          {
+            "id": 1,
+            "delivery": "90 min",
+            "minimum_order": 200,
+            "schedule": "L - V de 8:00am a 6:00pm y Sab. De 8:00am a 1:30pm"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "slug": "digriapan-universidad",
+        "policies": [
+          {
+            "id": 1,
+            "delivery": "90 min",
+            "minimum_order": 200,
+            "schedule": "L - V de 8:00am a 6:00pm y Sab. De 8:00am a 1:30pm"
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "slug": "digriapan-20-de-noviembre",
+        "policies": [
+          {
+            "id": 1,
+            "delivery": "90 min",
+            "minimum_order": 200,
+            "schedule": "L - V de 8:00am a 6:00pm y Sab. De 8:00am a 1:30pm"
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "slug": "digriapan-tecnologico",
+        "policies": [
+          {
+            "id": 1,
+            "delivery": "90 min",
+            "minimum_order": 200,
+            "schedule": "L - V de 8:00am a 6:00pm y Sab. De 8:00am a 1:30pm"
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "slug": "cepasa-veracruz",
+        "policies": [
+          {
+            "id": 1,
+            "delivery": "90 min",
+            "minimum_order": 200,
+            "schedule": "L - V de 8:00am a 6:00pm y Sab. De 8:00am a 1:30pm"
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "slug": "cepasa-cordoba",
+        "policies": [
+          {
+            "id": 1,
+            "delivery": "90 min",
+            "minimum_order": 200,
+            "schedule": "L - V de 8:00am a 6:00pm y Sab. De 8:00am a 1:30pm"
+          }
+        ]
+      },
+      {
+        "id": 10,
+        "slug": "la-nuez-veracruz",
+        "policies": [
+          {
+            "id": 1,
+            "delivery": "90 min",
+            "minimum_order": 200,
+            "schedule": "L - V de 8:00am a 6:00pm y Sab. De 8:00am a 1:30pm"
+          }
+        ]
       }
-    },
-    {
-      "id": 2,
-      "name": {
-        "title": "White Round Cake Topped"
-      },
-      "description": {
-        "text": "Empty"
-      },
-      "picture": {
-        "background": "https://images.pexels.com/photos/2144200/pexels-photo-2144200.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
-      }
-    },
-    {
-      "id": 3,
-      "name": {
-        "title": "Sliced Cakes With Berries"
-      },
-      "description": {
-        "text": "Empty"
-      },
-      "picture": {
-        "background": "https://images.pexels.com/photos/236799/pexels-photo-236799.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
-      }
-    },
-    {
-      "id": 4,
-      "name": {
-        "title": "Cupcakes"
-      },
-      "description": {
-        "text": "Empty"
-      },
-      "picture": {
-        "background": "https://images.pexels.com/photos/1028704/pexels-photo-1028704.jpeg?cs=srgb&dl=bake-baked-bakery-1028704.jpg&fm=jpg"
-      }
-    },
-    {
-      "id": 5,
-      "name": {
-        "title": "Black, Brown, and White Melted"
-      },
-      "description": {
-        "text": "Empty"
-      },
-      "picture": {
-        "background": "https://images.pexels.com/photos/954199/pexels-photo-954199.jpeg?cs=srgb&dl=blur-cake-chocolate-954199.jpg&fm=jpg"
-      }
-    }
-  ],
-  "info": {
-    "seed": "37ad599519cec52c",
-    "results": 5,
-    "page": 1,
-    "version": "1.3"
+    ],
+    "total": 12
   }
 }
