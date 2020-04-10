@@ -1,127 +1,29 @@
 {
-  "data": {
-    "rows": [
-      {
-        "id": 1,
-        "slug": "pealpan-centro",
-        "policies": [
-          {
-            "id": 1,
-            "delivery": "90 min",
-            "minimum_order": 200,
-            "schedule": "L - V de 8:00am a 6:00pm y Sab. De 8:00am a 1:30pm"
-          }
-        ]
-      },
-      {
-        "id": 2,
-        "slug": "pealpan-lomas",
-        "policies": [
-          {
-            "id": 1,
-            "delivery": "90 min",
-            "minimum_order": 200,
-            "schedule": "L - V de 8:00am a 6:00pm y Sab. De 8:00am a 1:30pm"
-          }
-        ]
-      },
-      {
-        "id": 3,
-        "slug": "pealpan-abastos",
-        "policies": [
-          {
-            "id": 1,
-            "delivery": "90 min",
-            "minimum_order": 200,
-            "schedule": "L - V de 8:00am a 6:00pm y Sab. De 8:00am a 1:30pm"
-          }
-        ]
-      },
-      {
-        "id": 4,
-        "slug": "digriapan-matriz",
-        "policies": [
-          {
-            "id": 1,
-            "delivery": "90 min",
-            "minimum_order": 200,
-            "schedule": "L - V de 8:00am a 6:00pm y Sab. De 8:00am a 1:30pm"
-          }
-        ]
-      },
-      {
-        "id": 5,
-        "slug": "digriapan-universidad",
-        "policies": [
-          {
-            "id": 1,
-            "delivery": "90 min",
-            "minimum_order": 200,
-            "schedule": "L - V de 8:00am a 6:00pm y Sab. De 8:00am a 1:30pm"
-          }
-        ]
-      },
-      {
-        "id": 6,
-        "slug": "digriapan-20-de-noviembre",
-        "policies": [
-          {
-            "id": 1,
-            "delivery": "90 min",
-            "minimum_order": 200,
-            "schedule": "L - V de 8:00am a 6:00pm y Sab. De 8:00am a 1:30pm"
-          }
-        ]
-      },
-      {
-        "id": 7,
-        "slug": "digriapan-tecnologico",
-        "policies": [
-          {
-            "id": 1,
-            "delivery": "90 min",
-            "minimum_order": 200,
-            "schedule": "L - V de 8:00am a 6:00pm y Sab. De 8:00am a 1:30pm"
-          }
-        ]
-      },
-      {
-        "id": 8,
-        "slug": "cepasa-veracruz",
-        "policies": [
-          {
-            "id": 1,
-            "delivery": "90 min",
-            "minimum_order": 200,
-            "schedule": "L - V de 8:00am a 6:00pm y Sab. De 8:00am a 1:30pm"
-          }
-        ]
-      },
-      {
-        "id": 9,
-        "slug": "cepasa-cordoba",
-        "policies": [
-          {
-            "id": 1,
-            "delivery": "90 min",
-            "minimum_order": 200,
-            "schedule": "L - V de 8:00am a 6:00pm y Sab. De 8:00am a 1:30pm"
-          }
-        ]
-      },
-      {
-        "id": 10,
-        "slug": "la-nuez-veracruz",
-        "policies": [
-          {
-            "id": 1,
-            "delivery": "90 min",
-            "minimum_order": 200,
-            "schedule": "L - V de 8:00am a 6:00pm y Sab. De 8:00am a 1:30pm"
-          }
-        ]
-      }
-    ],
-    "total": 12
-  }
+  "productos": [
+    {
+      "id": 1,
+      "nombre": "Jugo de Zanahoria",
+      "precio": "31111"
+    },
+    {
+      "id": 2,
+      "nombre": "Jugo de Naranja",
+      "precio": "1"
+    },
+    {
+      "nombre": "Jugo de Naranja",
+      "precio": "300",
+      "id": 3
+    },
+    {
+      "nombre": "Rib Eye 800g",
+      "precio": "200",
+      "id": 4
+    },
+    {
+      "nombre": "Jugo de Fresa",
+      "precio": "200",
+      "id": 5
+    }
+  ]
 }
